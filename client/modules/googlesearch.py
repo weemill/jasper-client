@@ -14,4 +14,4 @@ def showsome(searchfor):
   for h in hits: print ' ', h['url']
   print 'For more results, see %s' % data['cursor']['moreResultsUrl']
 
-showsome('ermanno olmi')
+showsome('how to grow tomatoes')
